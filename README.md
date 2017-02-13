@@ -1,3 +1,3 @@
 # blackhatpythoncode
 
-Code on Black Hat Python Book that i was write by myself.
+Code on Black Hat Python book that i was write by myself.
